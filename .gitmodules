@@ -1,0 +1,63 @@
+[submodule "OfficeApps/Presentation"]
+	path = OfficeApps/Presentation
+	url = https://github.com/Microsoft-Web/PRESENTATION-OfficeApps.git
+[submodule "OfficeApps/Demo"]
+	path = OfficeApps/Demo
+	url = https://github.com/Microsoft-Web/DEMO-OfficeApps.git
+[submodule "BuildingDeployingMVC4/Presentation"]
+	path = BuildingDeployingMVC4/Presentation
+	url = https://github.com/Microsoft-Web/PRESENTATION-BuildingDeployingMVC4.git
+[submodule "BuildingDeployingMVC4/Demo"]
+	path = BuildingDeployingMVC4/Demo
+	url = https://github.com/Microsoft-Web/DEMO-BuildingDeployingMVC4.git
+[submodule "BuildingForTheMobileWeb/Presenation"]
+	path = BuildingForTheMobileWeb/Presenation
+	url = https://github.com/Microsoft-Web/PRESENTATION-BuildingForTheMobileWeb.git
+[submodule "BuildingForTheMobileWeb/Demo"]
+	path = BuildingForTheMobileWeb/Demo
+	url = https://github.com/Microsoft-Web/DEMO-BuildingForTheMobileWeb.git
+[submodule "BuildingServiceLayerWithASPNETWebAPI/Presentation"]
+	path = BuildingServiceLayerWithASPNETWebAPI/Presentation
+	url = https://github.com/Microsoft-Web/PRESENTATION-BuildingServiceLayerWithASPNETWebAPI.git
+[submodule "BuildingServiceLayerWithASPNETWebAPI/Demo"]
+	path = BuildingServiceLayerWithASPNETWebAPI/Demo
+	url = https://github.com/Microsoft-Web/DEMO-BuildingServiceLayerWithASPNETWebAPI.git
+[submodule "BuildingSocialWebApps/Presentation"]
+	path = BuildingSocialWebApps/Presentation
+	url = https://github.com/Microsoft-Web/PRESENTATION-BuildingSocialWebApps.git
+[submodule "BuildingSocialWebApps/Demo"]
+	path = BuildingSocialWebApps/Demo
+	url = https://github.com/Microsoft-Web/DEMO-BuildingSocialWebApps.git
+[submodule "WhatsNewInASPNET45/Presentation"]
+	path = WhatsNewInASPNET45/Presentation
+	url = https://github.com/Microsoft-Web/PRESENTATION-WhatsNewInASPNET45.git
+[submodule "WhatsNewInASPNET45/Demo"]
+	path = WhatsNewInASPNET45/Demo
+	url = https://github.com/Microsoft-Web/DEMO-WhatsNewInASPNET45.git
+[submodule "HTML5andjQuery/Presentation"]
+	path = HTML5andjQuery/Presentation
+	url = https://github.com/Microsoft-Web/PRESENTATION-HTML5andjQuery.git
+[submodule "HTML5andjQuery/Demo"]
+	path = HTML5andjQuery/Demo
+	url = https://github.com/Microsoft-Web/DEMO-HTML5andjQuery.git
+[submodule "RealtimeCommunicationsWithSignalR/Presentation"]
+	path = RealtimeCommunicationsWithSignalR/Presentation
+	url = https://github.com/Microsoft-Web/PRESENTATION-RealtimeCommunicationsWithSignalR.git
+[submodule "RealtimeCommunicationsWithSignalR/Demo"]
+	path = RealtimeCommunicationsWithSignalR/Demo
+	url = https://github.com/Microsoft-Web/DEMO-RealtimeCommunicationsWithSignalR.git
+[submodule "UserCloudApplicatoinServices/Presentation"]
+	path = UserCloudApplicatoinServices/Presentation
+	url = https://github.com/Microsoft-Web/PRESENTATION-UsingCloudApplicationServices.git
+[submodule "UserCloudApplicatoinServices/Demo"]
+	path = UserCloudApplicatoinServices/Demo
+	url = https://github.com/Microsoft-Web/DEMO-UsingCloudApplicationServices.git
+[submodule "Keynote/Presentation"]
+	path = Keynote/Presentation
+	url = https://github.com/Microsoft-Web/PRESENTATION-Keynote.git
+[submodule "Keynote/Demo"]
+	path = Keynote/Demo
+	url = https://github.com/Microsoft-Web/DEMO-Keynote.git
+[submodule "Conclusion/Presentation"]
+	path = Conclusion/Presentation
+	url = https://github.com/Microsoft-Web/PRESENTATION-Conclusion.git
